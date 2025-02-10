@@ -1,6 +1,5 @@
-# project_cv_parking_lot_sep2024
+# project_cv_parking_lot_feb2025
 
-Welcome to our CV project. 
+Welcome to my CV project. 
 
 Iegor Toporov
-Antonio Gaglione
