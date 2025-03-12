@@ -5,7 +5,8 @@ This project aims to build a computer vision system that can:
 - detect cars
 - classify the parked cars into properly parked or not
 - segment the cars
-- create a minimap of detected spots and cars \n
+- create a minimap of detected spots and cars.
+
 Images datased used: https://web.inf.ufpr.br/vri/databases/parking-lot-database/
 These are the only images that were used to develop the system.
 
