@@ -7,6 +7,8 @@ This project aims to build a computer vision system that can:
 - segment the cars
 - create a minimap of detected spots and cars.
 
+In order to run it, compile the main. Keep in mind that in order to use images you have to download the folder from the website and change the path to the image inside the main.
+
 Images datased used: https://web.inf.ufpr.br/vri/databases/parking-lot-database/
 These are the only images that were used to develop the system.
 
