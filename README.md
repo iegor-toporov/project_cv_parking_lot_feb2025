@@ -1,4 +1,4 @@
-# project_cv_parking_lot_feb2025
+# Computer Vision parking lots and cars detection and segmentation system
 
 This project aims to build a computer vision system that uses only OpenCV and that can:
 - detect parking spots and classify them into occupied or not
